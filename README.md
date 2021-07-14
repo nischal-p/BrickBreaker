@@ -1,5 +1,5 @@
 =:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
-CIS 120 Game Project README
+# CIS 120 Game Project README
 =:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
 
 ![screenshot](screenshot.png)
