@@ -1,6 +1,4 @@
-=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
-# CIS 120 Game Project README
-=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
+# BrickBreaker - CIS 120 Game Project 
 
 ![screenshot](screenshot.png)
 
